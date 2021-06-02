@@ -7,7 +7,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/programme-tv.net.guide.xml" tvg-shift=0 m3uautoload=7
 
 
-#EXTINF:-1  tvg-id="https://raw.githubusercontent.com/hoatphiduong/duongiptv/main/VTV/vtv1.m3u8 " group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD.png",VTV1 HD
+#EXTINF:-1  tvg-id="https://raw.githubusercontent.com/hoatphiduong/duongiptv/main/VTV/vtv1.m3u8 và http://gg.gg/HaNoiIPTV-VTV1_HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD.png",VTV1 HD
 https://raw.githubusercontent.com/hoatphiduong/duongiptv/main/VTV/vtv1.m3u8
 #EXTINF:-1  tvg-id="https://livecdn.fptplay.net/hda/vtv2_hls.smil/chunklist_b2500000.m3u8 và http://gg.gg/HaNoiIPTV-VTV2_HD" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV2%20HD.png",VTV2 HD
 http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
