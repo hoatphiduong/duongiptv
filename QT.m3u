@@ -1,0 +1,145 @@
+#EXTM3U
+#EXTINF:-1 group-title="Quốc Tế (HD)",24.ABC AUSTRALIA (HD 8Mbps)
+udp://@225.1.2.21:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",25.Animal Planet (HD 8Mbps)
+udp://@225.1.1.231:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",26.Animax (HD 8Mbps)
+udp://@225.1.1.135:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",27.Asian Food Network (HD 8Mbps)
+udp://@225.1.1.198:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",28.AXN (HD 8Mbps)
+udp://@225.1.2.225:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",29.Baby TV (HD 8Mbps)
+udp://@225.1.2.146:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",30.BBC CbeeBies (HD 8Mbps)
+udp://@225.1.1.134:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",31.BBC Earth (HD 8Mbps)
+udp://@225.1.2.24:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",32.BBC Lifestyle (HD 8Mbps)
+udp://@225.1.2.52:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",33.BBC News (HD 8Mbps)
+udp://@225.1.2.74:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",34.Bloomberg (HD 8Mbps)
+udp://@225.1.2.91:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",35.BOOMERANG (HD 8Mbps)
+udp://@225.1.1.138:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",36.CARTOON NETWORK (HD 8Mbps)
+udp://@225.1.2.231:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",37.Cinema World (HD 8Mbps)
+udp://@225.1.1.142:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",38.CINEMAX (HD 8Mbps)
+udp://@225.1.2.86:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",39.CNA (HD 8Mbps)
+udp://@225.1.1.202:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",40.CNN (HD 8Mbps)
+udp://@225.1.1.242:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",41.Da Vinci (HD 8Mbps)
+udp://@225.1.1.197:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",42.Discovery Asia (HD 8Mbps)
+udp://@225.1.2.223:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",43.Discovery Channel (HD 8Mbps)
+udp://@225.1.1.238:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",44.Dreamworks (HD 8Mbps)
+udp://@225.1.1.136:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",45.DW (HD 8Mbps)
+udp://@225.1.1.46:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",46.Fashion TV (HD 8Mbps)
+udp://@225.1.2.227:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",47.FRANCE 24 (English) (HD 8Mbps)
+udp://@225.1.2.211:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",48.HBO (HD 8Mbps)
+udp://@225.1.1.112:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",49.HBO (HD 8Mbps)
+udp://@225.1.2.233:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",50.KBS WORLD (HD 8Mbps)
+udp://@225.1.1.196:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",51.KIX (HD 8Mbps)
+udp://@225.1.2.144:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",52.NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+udp://@225.1.2.235:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",53.NAT GEO WILD (HD 8Mbps)
+udp://@225.1.1.211:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",54.NHK WORLD JAPAN (HD 8Mbps)
+udp://@225.1.1.47:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",55.Outdoor Channel (HD 8Mbps)
+udp://@225.1.2.215:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",56.TLC (HD 8Mbps)
+udp://@225.1.1.236:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",57.TV5 MONDE ASIE (HD 8Mbps)
+udp://@225.1.1.200:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",58.WBTV (HD 8Mbps)
+udp://@225.1.1.139:30120
+#EXTINF:-1 group-title="Quốc Tế (SD)",59.Arirang
+udp://@225.1.1.201:30120
+#EXTINF:-1 group-title="Quốc Tế (SD)",60.CNBC
+udp://@225.1.1.227:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",61.ABC AUSTRALIA (HD 4Mbps)
+udp://@225.1.4.19:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",62.Animal Planet (HD 4Mbps)
+udp://@225.1.4.209:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",63.Animax HD (HD 4Mbps)
+udp://@225.1.4.168:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",64.Asian Food Network (HD 4Mbps)
+udp://@225.1.4.36:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",65.AXN (HD 4Mbps)
+udp://@225.1.4.9:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",66.BabyTV (HD 4Mbps)
+udp://@225.1.4.207:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",67.BBC CBeeBies (HD 4Mbps)
+udp://@225.1.4.29:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",68.BBC Earth (HD 4Mbps)
+udp://@225.1.4.21:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",69.BBC Lifestyle (HD 4Mbps)
+udp://@225.1.4.23:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",70.BBC News (HD 4Mbps)
+udp://@225.1.4.22:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",71.BLOOMBERG (HD 4Mbps)
+udp://@225.1.4.18:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",72.BOOMERANG (HD 4Mbps)
+udp://@225.1.4.16:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",73.CARTOON NETWORK (HD 4Mbps)
+udp://@225.1.4.13:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",74.Cinema World (HD 4Mbps)
+udp://@225.1.4.15:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",75.CINEMAX (HD 4Mbps)
+udp://@225.1.4.205:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",76.CNA (HD 4Mbps)
+udp://@225.1.4.76:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",77.CNN (HD 4Mbps)
+udp://@225.1.4.17:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",78.Da Vinci (HD 4Mbps)
+udp://@225.1.4.208:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",79.Discovery Asia (HD 4Mbps)
+udp://@225.1.4.25:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",80.Discovery Channel (HD 4Mbps)
+udp://@225.1.4.24:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",81.Dreamworks (HD 4Mbps)
+udp://@225.1.4.39:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",82.DW (HD 4Mbps)
+udp://@225.1.4.75:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",83.FASHION TV (HD 4Mbps)
+udp://@225.1.4.20:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",84.FRANCE 24 (HD 4Mbps)
+udp://@225.1.4.212:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",85.HBO (HD 4Mbps)
+udp://@225.1.4.90:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",86.HBO (HD 4Mbps)
+udp://@225.1.4.183:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",87.KBS WORLD (HD 4Mbps)
+udp://@225.1.4.214:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",88.KIX (HD 4Mbps)
+udp://@225.1.4.40:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",89.NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+udp://@225.1.4.215:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",90.NAT GEO WILD (HD 4Mbps)
+udp://@225.1.4.83:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",91.NHK WORLD JAPAN (HD 4Mbps)
+udp://@225.1.4.73:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",92.Outdoor Channel (HD 4Mbps)
+udp://@225.1.4.210:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",93.TLC (HD 4Mbps)
+udp://@225.1.4.26:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",94.TV5 MONDE ASIE (HD 4Mbps)
+udp://@225.1.4.213:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",95.WBTV HD (HD 4Mbps)
+udp://@225.1.4.14:30120
