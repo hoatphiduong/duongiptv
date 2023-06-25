@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",16.VTC1 HD (HD 8Mbps)
+udp://@225.1.2.254:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/vemNwkI.png",17.VTC3 HD (HD 8Mbps)
+udp://@225.1.2.251:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",18.VTC4 HD (HD 8Mbps)
+udp://@225.1.2.200:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/QuXPUqi.png",19.VTC9 HD (HD 8Mbps)
+udp://@225.1.2.195:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/F6x7ZNA.png",20.VTC10 HD (HD 8Mbps)
+udp://@225.1.2.194:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/2RRt2M4.png",21.VTC13 HD (HD 8Mbps)
+udp://@225.1.2.250:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/jlvmYDY.png",22.VTC14 HD (HD 8Mbps)
+udp://@225.1.2.88:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/kpD8AAE.png",23.VTC16 HD (HD 8Mbps)
+udp://@225.1.2.190:30120
