@@ -1,27 +1,23 @@
 #EXTM3U
 #-------------------VTV-------------------#
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 4Mbps)
-udp://@225.1.4.1:30120
+udp://@225.1.2.249:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (HD 4Mbps)
-udp://@225.1.4.2:30120
+udp://@225.1.2.13:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 (HD 4Mbps)
-udp://@225.1.4.3:30120
+udp://@225.1.2.247:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (HD 4Mbps)
-udp://@225.1.4.4:30120
+udp://@225.1.2.190:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8Mbps)
-udp://@225.1.4.5:30120
+udp://@225.1.1.131:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 4Mbps)
-udp://@225.1.4.108:30120
+udp://@225.1.2.154:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 4Mbps)
-udp://@225.1.4.201:30120
+udp://@225.1.2.96:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 4Mbps)
-udp://@225.1.4.7:30120
+udp://@225.1.2.166:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 4Mbps)
-udp://@225.1.4.8:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (HD 4Mbps)
-udp://@225.1.4.184:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 4Mbps)
-udp://@225.1.4.179:30120
+udp://@225.1.1.128:30120
 #-------------------VTC/VOV-------------------#
 #EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 HD (HD 8Mbps)
 udp://@225.1.2.254:30120
